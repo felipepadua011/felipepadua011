@@ -19,4 +19,4 @@
   ![Snake animation](https://github.com/felipepadua011/dist/github-contribution-grid-snake.svg)
  
 </div>
-dist/github-contribution-grid-snake.svg
+
